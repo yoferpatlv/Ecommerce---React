@@ -1,0 +1,19 @@
+section.products.cat {
+    margin-top: -54px;
+}
+
+.container-productsList {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+
+}
+
+/* ===========MEDIA QUERY============== */
+@media(min-width:476px) {
+    .container-productsList {
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+}

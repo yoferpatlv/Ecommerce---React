@@ -1,0 +1,226 @@
+/* ========== Google Icons =========== */
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.material-symbols-outlined.btn-menu {
+  /* background-color: transparent !important; */
+  text-align: center;
+  font-size: 2.3rem;
+  padding: 0;
+}
+
+:root{
+  --color: black;
+  --color-orig:rgb(5, 6, 7);
+  --back-color: url("https://i.postimg.cc/43BnZmLh/clouds-sky-cloud-daytime-blue-cumulus-1627123-pxhere-com.jpg");
+  --logo-home:url("https://i.postimg.cc/mZqYhbGW/luanna-Logo.png");
+  --label-color:lawngreen;
+  --input-border-color:black;
+  --input-placeholder-color:#037E8c;
+  --btn-login-hover:black;
+  --menu-hover-nav-select:skyblue;
+  --link-home:black;
+  --link-hover-selec:black;
+  --btn-color-orig:#5074a6;
+  --btn-backColor-orig:orange;
+  --h1-menu-color-:black;
+  --btn-update:skyblue;
+  --label-login:rgb(0, 254, 47);
+}
+
+/* resets */
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+/* general */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container--width {
+  width: 100%;
+}
+
+.container--full {
+  height: 100%;
+}
+
+.homePage {
+  justify-content: space-between;
+  gap: 20px;
+  margin: 0;
+  width: 100%;
+  /* background-color: aqua; */
+  /* background: var(--back-color); */
+}
+
+.main-home {
+  width: 100%;
+  margin-top: 54px;
+}
+
+
+/* ============ */
+.login_page,
+.register_page {
+  margin: 12px;
+  border: 1px solid var(--color);
+  
+  overflow: hidden;
+  height: 100%;
+  background: var(--back-color);
+  /* background: url("https://i.postimg.cc/43BnZmLh/clouds-sky-cloud-daytime-blue-cumulus-1627123-pxhere-com.jpg"); */
+
+}
+.login_page h1,.login_page label,.register_page h1,.register_page label{
+    color: var(--color);
+}
+
+.container--btn-close{
+ display: flex; 
+ justify-content: flex-end;
+ align-items: center;
+ padding-right: 20%;
+ padding-bottom: 10%;
+ width: 100%;
+}
+
+.material-symbols-outlined.btn-close {
+  background-color: rgba(250, 252, 250, 0.5);
+  font-size: 40px;
+  font-weight: bold;
+}
+
+/* ===========Login============= */
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  gap: 10px;
+  background-color: transparent;
+}
+
+
+.img-login {
+  border-radius: 50%;
+  width: 40%;
+  margin-bottom: 5%;
+
+}
+
+.form__field {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.input {
+  font-size: 130%;
+  font-weight: bold;
+  background-color: transparent;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 1px solid white;
+  color: var(--color);
+  font-size: 1rem;
+  caret-color: var(--color);
+
+}
+
+.input::placeholder {
+  color: transparent;
+}
+
+.input:-webkit-autofill {
+  -webkit-background-clip: inherit;
+  -webkit-text-fill-color: var(--color);
+}
+
+.input::selection {
+  background-color: var(--color);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: var(--color);
+}
+
+.input:focus {
+  outline: none;
+}
+
+.button-login {
+  width: 50%;
+  height: 10%;
+  font-size: 1rem;
+  font-weight: bold;
+  border: 1px solid var(--color);
+  border-radius: 20px;
+
+}
+
+.button-login:hover {
+  background-color: var(--btn-login-hover);
+}
+
+.button-login:hover .select {
+  font-size: 130%;
+  background: var(--color);
+  color: var(--btn-login-hover);
+}
+
+
+.link {
+  font-size: 1rem;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--color);
+  font-weight: bold;
+}
+
+.link-register,
+.link-login {
+  text-decoration: none;
+}
+.nolink-register{
+  text-align: center;
+  margin: 9px;
+}
+.link-login {
+  margin-top: 4%;
+}
+
+.link-register:visited {
+  color: var(--color);
+}
+
+/* ================Register========== */
+
+.form-reg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  gap: 10px;
+  background-color: var(--back-color);
+}
+
+.img-register {
+  border-radius: 50%;
+  width: 40%;
+  margin-bottom: 5%;
+}

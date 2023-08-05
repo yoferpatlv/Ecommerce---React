@@ -1,0 +1,78 @@
+.formSettings {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+    /* min-height: 67%; */
+    overflow: scroll;    
+}
+
+.nameSettings {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color:var(--h1-menu-color-);
+    /* text-shadow: 2px 2px black; */
+    text-shadow: 0px 0px var(--color);
+}
+
+/* .contButtons {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 10px;
+
+} */
+
+.contButtonsSettings {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+
+
+}
+
+.contSettings {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    gap: 15px;
+    font-weight: bold;
+
+}
+
+.btn-update {
+    font-size: 0.8rem;
+    border-radius: 2em;
+    border: none;
+    text-decoration: none;
+    display: block;
+    padding: 0.7em 2em;
+    background-color: var(--btn-update);
+    color: var(--color);
+}
+
+.btn-update:hover {
+    filter: brightness(115%);
+}
+.contLogout{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.btn-logout{
+    margin: 20px;
+    margin-top: 40px;
+    background-color: red;
+    font-size: 16px;
+    font-weight: 700;
+}

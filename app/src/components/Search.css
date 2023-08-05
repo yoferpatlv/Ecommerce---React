@@ -1,0 +1,30 @@
+.container.search{
+    cursor: pointer;
+    margin-top: 5%;
+}
+.container.search input{
+    background-color: aliceblue;
+    font-size: 17px;
+}
+.material-symbols-outlined.chevron_left {
+    margin: 5% 84% 5% 0%;
+    font-size: 40px;
+}
+.material-symbols-outlined.search, .material-symbols-outlined.cleaning_services{
+    font-size: 20px;
+}
+
+.container--search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.closeFormSearch{
+    text-align: center;
+}
+.containerFormSearch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+}

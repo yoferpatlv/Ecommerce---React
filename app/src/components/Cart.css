@@ -1,0 +1,11 @@
+.container-carPrice{
+    display: flex;
+    justify-content:  center;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+    gap: 10px;
+}
+.container-carPrice h3,.container-carPrice p{
+margin: 0;
+}

@@ -1,0 +1,579 @@
+ERROR 2022-09-09T18:03:17.476Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | cart is empty
+ERROR 2022-09-09T18:03:18.520Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | cart is empty
+ERROR 2022-09-09T18:05:37.965Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | cart is empty
+ERROR 2022-09-09T18:06:17.195Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerUserHandler.js | name is not a string
+ERROR 2022-09-09T18:06:20.532Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | cart is empty
+ERROR 2022-09-09T18:07:08.437Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: { product: 'product2.id', price: 360, qty: 2 } } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T18:07:09.323Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: { product: 'product2.id', price: 360, qty: 2 } } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T18:07:10.163Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: { product: 'product2.id', price: 360, qty: 2 } } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+INFO 2022-09-09T18:49:54.606Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-09T18:49:54.612Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-09T19:44:49.429Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-09T19:44:49.840Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-09T19:44:50.003Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: { product: 'product2.id', price: 360, qty: 2 } } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T19:44:51.120Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: { product: 'product2.id', price: 360, qty: 2 } } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T19:45:18.362Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | cart is not an array
+INFO 2022-09-09T20:08:27.165Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-09T20:08:27.171Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-09T20:08:31.855Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-09T20:08:32.199Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-09T20:08:35.636Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T20:08:36.469Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T20:08:36.915Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T20:08:37.098Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T20:08:37.283Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T20:21:09.104Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerUserHandler.js | name is not a string
+INFO 2022-09-09T20:22:51.476Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-09T20:22:51.481Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-09T20:22:55.682Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-09T20:22:56.005Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-09T20:23:01.625Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-09T20:23:01.631Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-09T20:24:02.977Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-09T20:24:03.287Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-09T20:24:22.158Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | cart is not an array
+ERROR 2022-09-09T20:24:37.871Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | cart is not an array
+ERROR 2022-09-09T20:24:51.235Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | cart is not an array
+ERROR 2022-09-09T20:24:55.023Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | cart is not an array
+ERROR 2022-09-09T20:24:55.846Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | cart is not an array
+ERROR 2022-09-09T20:24:56.475Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | cart is not an array
+ERROR 2022-09-09T20:34:31.398Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: '631ba0c18abb0f93ae4f8696' } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T20:35:35.633Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: { product: '631ba0c18abb0f93ae4f8696' } } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T20:38:48.859Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: [ [Object] ] } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T20:38:55.098Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: [ [Object] ] } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T20:38:57.888Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: [ [Object] ] } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T20:39:02.373Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: [ [Object] ] } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T20:39:17.111Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: { product: '631ba0c18abb0f93ae4f8696' } } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T20:41:16.644Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: { product: '631ba0c18abb0f93ae4f8696' } } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T20:50:10.841Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { product: '631ba0c18abb0f93ae4f8696' } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T20:52:28.338Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: { product: '631ba0c18abb0f93ae4f8696' } } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T21:08:25.437Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: { product: [Object] } } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T21:08:26.537Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: { product: [Object] } } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T21:10:03.176Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: { product: [Object] } } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T21:10:04.095Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: { product: [Object] } } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T21:12:29.407Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: { product: [Object] } } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T21:12:37.125Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | cart is not an array
+INFO 2022-09-09T21:12:43.315Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-09T21:12:43.322Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-09T21:12:47.438Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-09T21:12:47.743Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-09T21:12:48.020Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: { product: [Object] } } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T21:15:07.418Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { Item: { product: [Object] } } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-09T21:15:12.010Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: { product: [Object] } } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+INFO 2022-09-12T08:05:20.922Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+ERROR 2022-09-12T08:05:21.338Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | w is not defined
+INFO 2022-09-13T08:46:55.243Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-13T08:46:55.616Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-13T08:48:02.570Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-13T08:48:02.576Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-13T08:48:13.172Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-13T08:48:13.470Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-13T14:59:39.511Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-13T14:59:39.521Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-13T15:03:04.672Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-13T15:03:05.062Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-13T16:02:25.198Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-13T16:02:25.204Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-13T16:02:39.282Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-13T16:02:39.582Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-13T17:42:57.759Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-13T17:42:58.126Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-13T18:53:31.671Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-13T18:53:31.680Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-13T19:09:26.428Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-13T19:09:26.887Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-13T20:11:45.407Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-13T20:11:45.415Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+ERROR 2022-09-16T18:33:36.373Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | connect ECONNREFUSED 127.0.0.1:27017
+INFO 2022-09-16T18:34:34.795Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-16T18:34:35.374Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-19T18:53:20.821Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-19T18:53:21.232Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-20T07:50:40.297Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-20T07:50:40.653Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-20T09:09:06.824Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-20T09:09:06.829Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-20T09:21:11.422Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-20T09:21:11.765Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-20T09:24:55.846Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-20T09:24:55.852Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-20T09:24:59.884Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-20T09:25:00.206Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-20T09:25:02.124Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | productId is not defined
+INFO 2022-09-20T09:27:38.150Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-20T09:27:38.155Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-20T09:27:40.462Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-20T09:27:40.598Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-20T12:51:16.171Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T12:51:16.175Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T12:51:25.138Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T12:51:25.140Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+INFO 2022-09-20T14:09:47.316Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-20T14:09:47.326Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-20T14:10:05.593Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-20T14:10:05.980Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-20T14:16:28.820Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-20T14:16:28.825Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-20T14:16:38.548Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-20T14:16:38.852Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-20T14:42:43.425Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:42:43.430Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:42:51.331Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:42:51.334Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+INFO 2022-09-20T14:43:29.683Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-20T14:43:29.689Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-20T14:43:34.100Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-20T14:43:34.450Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-20T14:43:47.504Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:43:47.506Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:44:06.440Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:44:06.443Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:44:48.600Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:44:48.602Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:46:52.459Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:46:52.461Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+INFO 2022-09-20T14:48:48.847Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-20T14:48:48.853Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-20T14:48:53.011Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-20T14:48:53.336Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-20T14:48:53.854Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:48:53.858Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:48:55.477Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:48:55.479Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:48:56.093Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:48:56.094Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:48:56.334Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:48:56.338Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:48:56.516Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:48:56.524Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:48:56.720Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:48:56.722Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:51:04.944Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:51:04.947Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:53:03.634Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:53:03.638Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:55:06.918Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:55:06.920Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:55:49.999Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T14:55:50.002Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-20T15:20:41.840Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cannot read properties of null (reading '_id')
+ERROR 2022-09-20T15:20:44.734Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cannot read properties of null (reading '_id')
+ERROR 2022-09-20T15:20:46.329Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cannot read properties of null (reading '_id')
+INFO 2022-09-20T15:25:26.308Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-20T15:25:26.313Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-20T15:25:34.849Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-20T15:25:35.192Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-20T15:25:41.065Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cannot read properties of null (reading '_id')
+ERROR 2022-09-20T15:25:41.076Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cannot read properties of null (reading '_id')
+ERROR 2022-09-20T15:37:07.384Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: { product: [Object] } } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+INFO 2022-09-20T15:37:50.649Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-20T15:37:50.655Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-20T15:37:54.657Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-20T15:37:54.989Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-20T15:37:59.881Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: { product: [Object] } } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+INFO 2022-09-20T15:38:41.997Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-20T15:38:42.004Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-20T15:39:11.309Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-20T15:39:11.507Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-20T15:43:29.669Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | User validation failed: cart: Cast to Embedded failed for value "[ { item: { product: [Object] } } ]" (type Array) at path "cart" because of "ObjectExpectedError"
+ERROR 2022-09-20T15:43:37.175Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\registerAnonymousUserHandler.js | cart is not an array
+INFO 2022-09-20T15:45:01.662Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-20T15:45:01.668Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-20T15:45:23.398Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-20T15:45:23.800Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-20T17:01:01.153Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-20T17:01:01.161Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-20T17:01:07.302Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-20T17:01:07.664Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-21T10:57:56.110Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | connect ECONNREFUSED 127.0.0.1:27017
+INFO 2022-09-21T10:58:18.741Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-21T10:58:19.114Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-21T11:30:39.015Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T11:30:39.018Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T11:30:53.704Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T11:30:53.706Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T11:32:16.265Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T11:32:16.267Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T11:33:30.230Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T11:33:30.233Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T11:33:40.643Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T11:33:40.645Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T11:43:39.334Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T11:43:39.337Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T11:49:09.056Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T11:49:09.057Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T11:49:14.340Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T11:49:14.341Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T11:58:51.008Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T11:58:51.010Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T11:59:02.489Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T11:59:02.491Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T12:17:56.447Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T12:17:56.448Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T12:18:10.831Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T12:18:10.832Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T12:18:21.973Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T12:18:21.977Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T12:18:31.633Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T12:18:31.635Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T12:18:47.655Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T12:18:47.658Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T12:19:35.635Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T12:19:35.637Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T12:56:20.010Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T12:56:20.012Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+INFO 2022-09-21T17:16:22.401Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-21T17:16:22.807Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-21T18:36:24.353Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-21T18:36:24.359Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-21T18:42:45.726Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-21T18:42:46.053Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-21T20:30:55.050Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-21T20:30:55.054Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-21T20:31:02.871Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-21T20:31:03.196Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-21T20:39:24.401Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-21T20:39:24.711Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-21T20:57:34.472Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-09-21T20:57:34.474Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+INFO 2022-09-21T21:14:36.426Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-21T21:14:36.432Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-22T18:35:21.479Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-22T18:35:21.935Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-22T18:35:37.413Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\authenticateUserHandler.js | user with email jos@fer.com not found
+ERROR 2022-09-22T19:27:48.811Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\cart\addItemToCartHandler.js | User validation failed: cart.items.0.qty: Path `qty` is required., cart.items.0.price: Path `price` is required.
+INFO 2022-09-22T19:35:32.674Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-22T19:35:32.679Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-22T19:35:36.832Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+ERROR 2022-09-22T19:35:37.157Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | removeItemFromCartHandler is not defined
+INFO 2022-09-22T19:37:27.349Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-22T19:37:27.487Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-22T19:37:32.928Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\cart\addItemToCartHandler.js | jwt expired
+ERROR 2022-09-22T19:37:49.538Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\cart\addItemToCartHandler.js | User validation failed: cart.items.0.qty: Path `qty` is required., cart.items.0.price: Path `price` is required.
+ERROR 2022-09-22T19:38:05.955Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\cart\addItemToCartHandler.js | User validation failed: cart.items.0.qty: Path `qty` is required., cart.items.0.price: Path `price` is required.
+INFO 2022-09-22T19:44:03.830Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-22T19:44:07.673Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-22T19:44:07.987Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-22T19:44:10.898Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\cart\addItemToCartHandler.js | User validation failed: cart.items.0.qty: Path `qty` is required., cart.items.0.price: Path `price` is required.
+INFO 2022-09-22T20:49:05.124Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-22T20:49:05.130Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-22T20:50:03.047Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-22T20:50:03.378Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-22T20:50:23.980Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-22T20:50:23.984Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-22T20:50:59.124Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-22T20:50:59.308Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-22T20:51:14.119Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\cart\addItemToCartHandler.js | jwt expired
+ERROR 2022-09-22T20:52:14.071Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\cart\addItemToCartHandler.js | User validation failed: cart.items.0.qty: Path `qty` is required., cart.items.0.price: Path `price` is required.
+INFO 2022-09-22T20:52:47.136Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-22T20:52:47.143Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-22T20:53:42.861Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-22T20:53:43.058Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-22T20:53:45.037Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\cart\addItemToCartHandler.js | User validation failed: cart.items.0.qty: Path `qty` is required., cart.items.0.price: Path `price` is required.
+ERROR 2022-09-22T20:53:47.029Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\cart\addItemToCartHandler.js | User validation failed: cart.items.0.qty: Path `qty` is required., cart.items.0.price: Path `price` is required.
+ERROR 2022-09-22T20:56:43.869Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\cart\addItemToCartHandler.js | User validation failed: cart.items.0.qty: Path `qty` is required., cart.items.0.price: Path `price` is required.
+ERROR 2022-09-22T20:56:56.743Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\cart\addItemToCartHandler.js | User validation failed: cart.items.0.qty: Path `qty` is required., cart.items.0.price: Path `price` is required.
+INFO 2022-09-22T21:21:14.473Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-22T21:21:14.479Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-22T21:21:58.646Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+ERROR 2022-09-22T21:21:58.974Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | Cannot find module './retrieveCart'
+Require stack:
+- C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\logic\cart\index.js
+- C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\logic\index.js
+- C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\authenticateUserHandler.js
+- C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\index.js
+- C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\index.js
+- C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js
+INFO 2022-09-22T21:23:44.097Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+ERROR 2022-09-22T21:23:44.240Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | Cannot find module './updateCart'
+Require stack:
+- C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\logic\cart\index.js
+- C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\logic\index.js
+- C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\authenticateUserHandler.js
+- C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\index.js
+- C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\index.js
+- C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js
+INFO 2022-09-22T21:24:48.295Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-22T21:24:48.493Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-22T21:25:46.253Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-22T21:25:46.260Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-22T21:26:01.514Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-22T21:26:01.719Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-22T21:28:03.017Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-22T21:28:03.024Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-22T21:28:39.281Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-22T21:28:39.628Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-22T21:33:23.514Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-22T21:33:23.521Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-22T21:33:55.565Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-22T21:33:55.947Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-22T21:35:09.660Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-22T21:35:09.854Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-22T21:35:29.360Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\cart\addItemToCartHandler.js | User validation failed: cart.items.0.qty: Path `qty` is required., cart.items.0.price: Path `price` is required.
+INFO 2022-09-22T21:36:31.038Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-22T21:36:31.045Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-22T21:36:59.374Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-22T21:36:59.559Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-22T21:37:07.560Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\cart\addItemToCartHandler.js | User validation failed: cart.items.0.qty: Path `qty` is required., cart.items.0.price: Path `price` is required.
+ERROR 2022-09-22T21:37:18.406Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\cart\addItemToCartHandler.js | User validation failed: cart.items.0.qty: Path `qty` is required., cart.items.0.price: Path `price` is required.
+INFO 2022-09-27T09:02:18.731Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-27T09:02:19.136Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-27T09:26:26.095Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-09-27T09:26:26.101Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-09-27T09:26:38.981Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-27T09:26:39.308Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-09-27T09:27:02.777Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\cart\addItemToCartHandler.js | user with id 632caafd0ea153962bc76765 not found
+ERROR 2022-09-27T09:27:08.011Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\authenticateUserHandler.js | user with email jos@fer.com not found
+ERROR 2022-09-27T09:27:09.666Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\authenticateUserHandler.js | user with email jos@fer.com not found
+ERROR 2022-09-27T09:28:44.225Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\cart\removeItemFromCartHandler.js | invalid token
+INFO 2022-09-29T07:22:23.586Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-29T07:22:24.031Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-09-29T11:30:06.133Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-09-29T11:30:06.557Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-10-01T13:37:30.657Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-01T13:37:31.063Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-10-01T17:33:34.459Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-10-01T17:33:34.469Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-10-01T17:33:38.643Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-01T17:33:38.987Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-10-01T17:34:34.129Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-10-01T17:34:34.136Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-10-01T17:38:43.209Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-01T17:38:43.544Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-10-01T17:58:08.884Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-10-01T17:58:08.890Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-10-01T17:58:12.832Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-01T17:58:13.171Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-10-01T17:58:30.144Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-10-01T17:58:30.150Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-10-01T17:58:32.235Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-01T17:58:32.373Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-10-01T17:58:59.974Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-10-01T17:58:59.979Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-10-01T17:59:02.432Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-01T17:59:02.582Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-10-01T17:59:51.085Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-10-01T17:59:51.090Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-10-01T17:59:54.026Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-01T17:59:54.167Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-10-01T18:00:03.215Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-10-01T18:00:03.221Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-10-01T18:06:00.490Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-01T18:06:00.829Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-10-01T18:19:29.759Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-10-01T18:19:29.765Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-10-01T18:23:27.685Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-01T18:23:28.079Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-10-01T18:44:08.568Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-10-01T18:44:08.576Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-10-01T18:44:25.255Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-01T18:44:25.590Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-10-01T18:45:35.480Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\cart\removeItemFromCartHandler.js | item with id 6332c229f594f63c5c9d53f6 not found
+ERROR 2022-10-01T19:18:11.457Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\cart\removeItemFromCartHandler.js | item with id 6332c229f594f63c5c9d53f6 not found
+INFO 2022-10-02T12:22:24.187Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-02T12:22:24.566Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-10-06T10:52:34.790Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-06T10:52:35.602Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-10-06T12:00:05.286Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\authenticateUserHandler.js | user with email j@fer.com not found
+ERROR 2022-10-06T12:00:18.655Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\authenticateUserHandler.js | user with email jose@fer.com not found
+INFO 2022-10-11T09:27:39.198Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-11T09:27:39.594Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-10-11T12:34:41.760Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-11T12:34:42.127Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-10-11T20:34:04.657Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:34:04.661Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:35:21.646Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:35:21.648Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:35:54.479Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:35:54.483Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:36:24.658Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:36:24.663Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:36:28.412Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:36:28.415Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:36:31.807Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:36:31.813Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:38:16.859Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:38:16.860Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:38:19.671Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:38:19.674Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:39:21.397Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:39:21.400Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:39:47.309Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:39:47.316Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:42:33.295Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:42:33.296Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:42:45.730Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T20:42:45.732Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T21:02:20.202Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T21:02:20.203Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T21:02:26.738Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T21:02:26.739Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T21:02:28.965Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T21:02:28.984Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T21:05:09.676Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T21:05:09.677Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T21:05:24.480Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T21:05:24.483Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T21:07:51.922Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T21:07:51.923Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+INFO 2022-10-11T21:08:52.619Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-10-11T21:08:52.625Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-10-11T21:08:57.339Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-11T21:08:57.738Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-10-11T21:09:01.047Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+ERROR 2022-10-11T21:09:01.055Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+INFO 2022-10-11T21:11:13.159Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-10-11T21:11:13.165Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-10-11T21:12:59.505Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-11T21:12:59.646Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-10-11T21:13:09.138Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cannot read properties of null (reading '_id')
+ERROR 2022-10-11T21:13:09.148Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cannot read properties of null (reading '_id')
+ERROR 2022-10-11T21:13:13.129Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cannot read properties of null (reading '_id')
+ERROR 2022-10-11T21:13:13.135Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cannot read properties of null (reading '_id')
+INFO 2022-10-11T21:17:14.774Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-10-11T21:17:44.791Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-10-12T05:16:12.082Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-12T05:16:13.946Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-10-12T08:40:26.830Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-10-12T08:40:26.845Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-10-12T08:44:00.396Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-12T08:44:00.817Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-10-12T08:46:26.223Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-10-12T08:46:26.230Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-10-12T08:46:51.986Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-12T08:46:52.130Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-10-12T08:54:39.549Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-10-12T08:54:39.555Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-10-12T08:54:52.131Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-12T08:54:52.461Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-10-12T09:00:05.053Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-10-12T09:30:24.390Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-12T09:30:24.999Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-10-12T10:30:10.671Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cannot read properties of null (reading '_id')
+ERROR 2022-10-12T10:30:10.676Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cannot read properties of null (reading '_id')
+ERROR 2022-10-12T10:30:22.029Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cannot read properties of null (reading '_id')
+ERROR 2022-10-12T10:30:22.034Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cannot read properties of null (reading '_id')
+ERROR 2022-10-12T10:31:40.412Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cannot read properties of null (reading '_id')
+ERROR 2022-10-12T10:31:40.416Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cannot read properties of null (reading '_id')
+ERROR 2022-10-12T19:56:18.577Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductsHandler.js | connect ECONNREFUSED 127.0.0.1:27017
+ERROR 2022-10-12T19:56:19.688Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | connect ECONNREFUSED 127.0.0.1:27017
+ERROR 2022-10-12T19:56:38.575Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductsHandler.js | connect ECONNREFUSED 127.0.0.1:27017
+ERROR 2022-10-12T19:56:38.576Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductsHandler.js | connect ECONNREFUSED 127.0.0.1:27017
+ERROR 2022-10-12T19:56:38.577Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductsHandler.js | connect ECONNREFUSED 127.0.0.1:27017
+ERROR 2022-10-12T19:56:39.687Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | connect ECONNREFUSED 127.0.0.1:27017
+ERROR 2022-10-12T19:57:52.053Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductsHandler.js | connect ECONNREFUSED 127.0.0.1:27017
+ERROR 2022-10-12T19:58:12.063Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductsHandler.js | connect ECONNREFUSED 127.0.0.1:27017
+ERROR 2022-10-12T19:58:12.064Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductsHandler.js | connect ECONNREFUSED 127.0.0.1:27017
+ERROR 2022-10-12T19:58:12.065Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductsHandler.js | connect ECONNREFUSED 127.0.0.1:27017
+ERROR 2022-10-12T19:58:22.065Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductsHandler.js | connect ECONNREFUSED 127.0.0.1:27017
+ERROR 2022-10-12T19:58:39.992Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductsHandler.js | connect ECONNREFUSED 127.0.0.1:27017
+ERROR 2022-10-12T19:58:39.994Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductsHandler.js | connect ECONNREFUSED 127.0.0.1:27017
+INFO 2022-10-13T05:58:02.791Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-13T05:58:03.176Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-10-13T10:48:47.687Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\authenticateUserHandler.js | user with email jos@fer.com not found
+ERROR 2022-10-13T10:48:48.447Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\authenticateUserHandler.js | user with email jos@fer.com not found
+ERROR 2022-10-13T10:48:48.957Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\authenticateUserHandler.js | user with email jos@fer.com not found
+ERROR 2022-10-13T10:48:56.385Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\authenticateUserHandler.js | user with email jos@fer.com not found
+ERROR 2022-10-13T10:49:00.418Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\authenticateUserHandler.js | user with email jose@fer.com not found
+ERROR 2022-10-13T12:18:13.065Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\retrieveUserHandler.js | jwt expired
+ERROR 2022-10-13T19:18:22.060Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\retrieveUserHandler.js | jwt expired
+ERROR 2022-10-13T19:30:20.407Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\cart\removeItemFromCartHandler.js | item with id 6332c229f594f63c5c9d53f6 not found
+ERROR 2022-10-13T20:26:30.049Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\retrieveUserHandler.js | jwt expired
+INFO 2022-10-14T17:51:35.822Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-14T17:51:36.227Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-10-14T18:54:58.176Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\retrieveUserHandler.js | jwt expired
+ERROR 2022-10-14T18:57:36.779Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\retrieveUserHandler.js | jwt expired
+ERROR 2022-10-14T18:57:38.026Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\retrieveUserHandler.js | jwt expired
+INFO 2022-10-14T19:02:28.621Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-10-14T19:02:28.629Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-10-14T19:02:32.913Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-14T19:02:33.257Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-10-14T19:58:55.539Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2022-10-14T19:58:55.544Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2022-10-14T20:07:14.823Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-14T20:07:15.232Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2022-10-16T06:47:48.254Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2022-10-16T06:47:48.658Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2022-10-16T07:49:04.771Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\retrieveUserHandler.js | jwt expired
+ERROR 2022-10-16T07:49:04.772Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\retrieveUserHandler.js | jwt expired
+ERROR 2022-10-16T08:07:24.019Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "6349c150b60c2838e14cfd5b,6349c150b60c2838e14cfd58" (type string) at path "_id" for model "Product"
+ERROR 2022-10-16T08:14:08.822Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "6349c150b60c2838e14cfd5b,6349c150b60c2838e14cfd58" (type string) at path "_id" for model "Product"
+ERROR 2022-10-16T08:31:19.074Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "6349c150b60c2838e14cfd5b,6349c150b60c2838e14cfd58" (type string) at path "_id" for model "Product"
+ERROR 2022-10-16T08:31:19.076Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\products\retrieveProductExtendHandler.js | Cast to ObjectId failed for value "6349c150b60c2838e14cfd5b,6349c150b60c2838e14cfd58" (type string) at path "_id" for model "Product"
+ERROR 2022-10-16T08:49:15.856Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\retrieveUserHandler.js | jwt expired
+ERROR 2022-10-16T09:49:30.690Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\retrieveUserHandler.js | jwt expired
+ERROR 2022-10-16T09:49:30.692Z undefined/C:\Users\jose_\workspace\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\routes\users\retrieveUserHandler.js | jwt expired
+INFO 2023-08-04T18:48:40.122Z undefined/C:\Users\jose_\workspace\JS\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2023-08-04T18:48:40.449Z undefined/C:\Users\jose_\workspace\JS\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-08-04T19:10:07.189Z undefined/C:\Users\jose_\workspace\JS\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2023-08-04T19:10:07.196Z undefined/C:\Users\jose_\workspace\JS\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2023-08-04T19:10:31.351Z undefined/C:\Users\jose_\workspace\JS\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2023-08-04T19:10:31.697Z undefined/C:\Users\jose_\workspace\JS\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-08-04T19:39:37.882Z undefined/C:\Users\jose_\workspace\JS\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2023-08-04T19:39:37.888Z undefined/C:\Users\jose_\workspace\JS\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2023-08-04T19:39:43.194Z undefined/C:\Users\jose_\workspace\JS\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2023-08-04T19:39:43.529Z undefined/C:\Users\jose_\workspace\JS\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-08-04T19:41:38.804Z undefined/C:\Users\jose_\workspace\JS\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2023-08-04T19:41:38.810Z undefined/C:\Users\jose_\workspace\JS\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2023-08-04T19:42:16.172Z undefined/C:\Users\jose_\workspace\JS\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db connected
+INFO 2023-08-04T19:42:16.512Z undefined/C:\Users\jose_\workspace\JS\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-08-04T19:42:56.025Z undefined/C:\Users\jose_\workspace\JS\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
+api stopped
+INFO 2023-08-04T19:42:56.030Z undefined/C:\Users\jose_\workspace\JS\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected

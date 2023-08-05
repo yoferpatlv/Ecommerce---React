@@ -1,0 +1,52 @@
+.Feedback {
+    background-color: rgba(0, 0, 0, .7);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 3;
+    
+}
+
+.Feedback__box {
+    width: 50vw;
+    height: 25vh;
+    border-radius: 15px;
+}
+
+.textFeedback{
+    text-align: center;
+    padding: 15px,10px,10px,10px;
+}
+
+.button{
+    margin: 15px;
+    /*font-size: 20px; */
+    font-size: 1rem;
+    border-radius: 2em;
+    border: none;
+    text-decoration: none;
+    display: block;
+    padding: 0.7em 2em;
+    background-color: var(--btn-update);
+    color: var(--color);
+}
+
+.Feedback--error > .Feedback__box {
+    background-color: red;
+}
+
+.Feedback--warning > .Feedback__box {
+    background-color: orange;
+}
+
+.Feedback--success > .Feedback__box {
+    background-color: green;
+}
+
+.Feedback--info > .Feedback__box {
+    background-color: dodgerblue;
+}
+
+.Feedback--infoCart > .Feedback__box {
+    background-color: rgba(255, 254, 254,0.5);
+}
