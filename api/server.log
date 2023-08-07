@@ -577,3 +577,69 @@ INFO 2023-08-04T19:42:16.512Z undefined/C:\Users\jose_\workspace\JS\neoland-boot
 INFO 2023-08-04T19:42:56.025Z undefined/C:\Users\jose_\workspace\JS\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | 
 api stopped
 INFO 2023-08-04T19:42:56.030Z undefined/C:\Users\jose_\workspace\JS\neoland-bootcamp-202207\staff\jose-fernandez\finalProject\api\src\index.js | db disconnected
+INFO 2023-08-05T17:19:45.577Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | db connected
+INFO 2023-08-05T17:19:46.098Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-08-05T21:49:09.076Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | 
+api stopped
+INFO 2023-08-05T21:49:09.084Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | db disconnected
+INFO 2023-08-06T20:00:59.254Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | db connected
+INFO 2023-08-06T20:00:59.668Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-08-06T20:13:30.626Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | 
+api stopped
+INFO 2023-08-06T20:13:30.633Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | db disconnected
+INFO 2023-08-06T20:50:20.428Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | db connected
+INFO 2023-08-06T20:50:20.773Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-08-06T21:54:38.386Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\routes\cart\addItemToCartHandler.js | updateCart is not a function
+ERROR 2023-08-06T21:55:26.738Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\routes\cart\addItemToCartHandler.js | updateCart is not a function
+ERROR 2023-08-06T22:01:17.003Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\routes\cart\addItemToCartHandler.js | updateCart is not a function
+ERROR 2023-08-06T22:01:51.489Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\routes\cart\addItemToCartHandler.js | updateCart is not a function
+INFO 2023-08-07T12:08:55.852Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | db connected
+INFO 2023-08-07T12:08:56.228Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-08-07T12:14:52.442Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\routes\cart\addItemToCartHandler.js | updateCart is not a function
+ERROR 2023-08-07T12:15:03.142Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\routes\cart\addItemToCartHandler.js | updateCart is not a function
+ERROR 2023-08-07T12:16:24.877Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\routes\cart\addItemToCartHandler.js | updateCart is not a function
+ERROR 2023-08-07T14:45:41.324Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\routes\users\retrieveUserHandler.js | jwt expired
+ERROR 2023-08-07T14:46:10.282Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\routes\cart\addItemToCartHandler.js | updateCart is not a function
+ERROR 2023-08-07T14:46:18.204Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\routes\cart\addItemToCartHandler.js | updateCart is not a function
+ERROR 2023-08-07T14:48:12.042Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\routes\cart\addItemToCartHandler.js | updateCart is not a function
+ERROR 2023-08-07T14:48:52.592Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\routes\cart\addItemToCartHandler.js | updateCart is not a function
+ERROR 2023-08-07T14:48:59.580Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\routes\cart\addItemToCartHandler.js | updateCart is not a function
+ERROR 2023-08-07T14:49:18.533Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\routes\cart\addItemToCartHandler.js | updateCart is not a function
+INFO 2023-08-07T14:49:43.832Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | 
+api stopped
+INFO 2023-08-07T14:49:43.836Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | db disconnected
+INFO 2023-08-07T14:49:48.716Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | db connected
+INFO 2023-08-07T14:49:49.118Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-08-07T14:53:32.544Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | 
+api stopped
+INFO 2023-08-07T14:53:32.550Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | db disconnected
+INFO 2023-08-07T14:53:37.609Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | db connected
+INFO 2023-08-07T14:53:37.959Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-08-07T14:54:27.101Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\routes\cart\addItemToCartHandler.js | updateCart is not a function
+INFO 2023-08-07T15:03:43.663Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | 
+api stopped
+INFO 2023-08-07T15:03:43.674Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | db disconnected
+INFO 2023-08-07T15:03:48.718Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | db connected
+INFO 2023-08-07T15:03:49.133Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-08-07T15:03:54.453Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\routes\cart\addItemToCartHandler.js | updateCart is not a function
+INFO 2023-08-07T15:23:46.398Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | 
+api stopped
+INFO 2023-08-07T15:23:46.412Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | db disconnected
+INFO 2023-08-07T15:23:52.367Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | db connected
+INFO 2023-08-07T15:23:52.849Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | api v1.0.0 started and listening in port 8080
+ERROR 2023-08-07T15:25:28.430Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\routes\cart\addItemToCartHandler.js | updateCart is not a function
+ERROR 2023-08-07T15:28:14.356Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\routes\cart\addItemToCartHandler.js | updateCart is not a function
+ERROR 2023-08-07T15:51:45.134Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\routes\cart\addItemToCartHandler.js | updateCart is not a function
+ERROR 2023-08-07T16:15:32.480Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\routes\users\retrieveUserHandler.js | jwt expired
+ERROR 2023-08-07T16:15:32.482Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\routes\users\retrieveUserHandler.js | jwt expired
+ERROR 2023-08-07T16:15:44.729Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\routes\cart\addItemToCartHandler.js | updateCart is not a function
+INFO 2023-08-07T16:15:51.117Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | 
+api stopped
+INFO 2023-08-07T16:15:51.122Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | db disconnected
+INFO 2023-08-07T16:15:56.912Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | db connected
+INFO 2023-08-07T16:15:57.363Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | api v1.0.0 started and listening in port 8080
+INFO 2023-08-07T17:20:15.237Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | 
+api stopped
+INFO 2023-08-07T17:20:15.242Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | db disconnected
+INFO 2023-08-07T17:20:20.421Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | db connected
+INFO 2023-08-07T17:20:20.873Z undefined/C:\Users\jose_\workspace\JS\Ecommerce\api\src\index.js | api v1.0.0 started and listening in port 8080

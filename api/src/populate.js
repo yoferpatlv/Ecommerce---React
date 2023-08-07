@@ -190,28 +190,32 @@ connect('mongodb://127.0.0.1:27017/finalProject')
     })
     .then(([product1, product2, product3, product4]) => {
         console.log(product1.stock)
-        debugger
+
         //primero crear producto
         //embebido se declara antes de save()
         const item1 = new Item({
             product: product1.id,
             price: 300,
-            qty: 2
+            qty: 2,
+            totalPrice: 600
         })
         const item2 = new Item({
             product: product2.id,
             price: 140,
-            qty: 1
+            qty: 1,
+            totalPrice: 140
         })
         const item3 = new Item({
             product: product3.id,
             price: 570,
-            qty: 3
+            qty: 3 ,
+            totalPrice: 1710
         })
         const item4 = new Item({
             product: product4.id,
             price: 180,
-            qty: 1
+            qty: 1,
+            totalPrice: 180
         })
 
         // primero crear item

@@ -8,7 +8,6 @@ import addItemToCart from '../logic/addItemToCart'
 import withContext from '../utils/withContext'
 import './ProductView.css'
 import './Carousel.css'
-// import './ProductsList.css'
 import IconButton from './Buttons/IconButton'
 import ModalCart from "./ModalCart";
 
@@ -19,9 +18,10 @@ function ProductView({ onCart, context: { handleFeedback } }) {
     const [productToDisplay, setProduct] = useState()
     const [modalState, setModalState] = useState(false)
     const [imagesToDisplay, setImagesToDisplay] = useState()
+    const [selectedQty, setSelectedQty] = useState(1)
+    const [cart, setCart] = useState({})
     const productId = params.productId
     const qtyImg = imagesToDisplay
-    const productToDisplayQty=1
     let size = useRef(null)
 
     useEffect(() => {
@@ -50,7 +50,11 @@ function ProductView({ onCart, context: { handleFeedback } }) {
         setImgCurrent(imgCurrent === 0 ? qtyImg - 1 : imgCurrent - 1)
     }
     // ===========================================================
-
+    const handleQtyChange = (event) => {
+        const value = parseInt(event.target.value);
+        setSelectedQty(isNaN(value) ? 0 : value);
+    }
+    //======================================================
     const sizeClick = () => {
         // size.children.forEach(button=>{
         //     //TODO BOTONES 
@@ -60,45 +64,58 @@ function ProductView({ onCart, context: { handleFeedback } }) {
     // TODO arreglar onAddItemToCart recibe 3 parametros y solo tengo 1
 
 
-debugger
-    const handleFormSubmitCart = (event, productToDisplayId, productToDisplayPrice,productToDisplayQty) => {
+
+    const handleFormSubmitCart = (event, productToDisplayId, productToDisplayPrice, selectedQty) => {
         event.preventDefault()
+        console.log(selectedQty)
+        // Comprobar si hay un usuario registrado (con token) en la sesión o el localStorage
+        const token = sessionStorage.token || localStorage.token;
         try {
-            // if (!sessionStorage.token) {
-            //     //TODO  create register anonymous
-            //registerUserAnonymous(cart,function(error,token){
-            //         if (error) {
-            //             handleFeedback({ message: error.message, level: 'error' })
+            if (!token) {
+                //TODO Si no hay token, entonces el usuario es anónimo
+                // Creamos un usuario anónimo y agregamos el producto al carrito
+                registerUserAnonymous(cart, function (error, token) {
+                    if (error) {
+                        handleFeedback({ message: error.message, level: 'error' })
 
-            //             return
-            //         }
-            //         handleFeedback({ message: error.message, level: 'error' })
+                        return
+                    }
+                    handleFeedback({ message: error.message, level: 'error' })
 
-            //         localStorage.token=token
-            //     })
-            // }
+                    localStorage.token = token
 
+                    // Una vez creado el usuario anónimo, agregamos el producto al carrito
+
+                    addItemToCart(token, productToDisplayId, productToDisplayPrice, selectedQty, error => {
+                        if (error) {
+                            handleFeedback({ message: error.message, level: 'error' })
+                            return;
+                        }
+
+                        handleFeedback({ message: 'agregado', level: 'info' })
+                        setModalState(productToDisplayId);
+                    })
+                })
+            } else {
+                //Si hay token, entonces el usuario ya esta registrado
+                //Agregamos el producto al carrito directamente
+
+                addItemToCart((sessionStorage.token || localStorage), productToDisplayId, productToDisplayPrice, selectedQty, error => {
+
+                    if (error) {
+                        handleFeedback({ message: error.message, level: 'error' })
+                        console.log("error adentro")
+                        return
+                    }
+                    handleFeedback({ message: "agregado", level: 'info' })
+                    setModalState(productToDisplayId)
+                })
+            }
             // console.log(productToDisplayPrice)
-            
-            // addItemToCart((sessionStorage.token || localStorage), productToDisplayId, productToDisplayPrice, productToDisplayQty, error => {
-            //TODO duda si hacer le addItemToCart en Homepage y pasarlo aqui por propos addItemToCart(productToDisplayId, productToDisplayPrice, productToDisplayQty)
-            // debugger
-            // addItemToCart(sessionStorage.token, productToDisplayId, productToDisplayPrice, productToDisplayQty, error => {
-            //     if (error) {
-            //         handleFeedback({ message: error.message, level: 'error' })
-            //         console.log("error adentro")
-            //         return
-            //     }
-            //     handleFeedback({ message: "agregado", level: 'info' })
-            //     setModalState(productToDisplayId)
-
-            //     //agregado abajo en handleSettingsClick
-            //     // loadNotes()
-            // })
-            setModalState(productToDisplayId)
         } catch (error) {
+            console.log("Error en handleFormSubmitCart:", error);
             handleFeedback({ message: error.message, level: 'error' })
-            console.log("error afuera")
+            console.log("error afuera catch")
         }
     }
 
@@ -181,14 +198,14 @@ debugger
 
 
             <form onSubmit={(event) => {
-                handleFormSubmitCart(event, productToDisplay.id, productToDisplay.price)
+                handleFormSubmitCart(event, productToDisplay.id, productToDisplay.price, selectedQty)
             }}>
 
-                {/* <div className="container-qty">
+                <div className="container-qty">
                     <h3>Cantidad</h3>
-                    <input type="number" value="1" />
-                    
-                </div> */}
+                    <input type="number" value={selectedQty} onChange={handleQtyChange} />
+
+                </div>
                 <div className="btn-cart">
                     <button type="submit">
                         <span >AÑADIR AL CARRITO</span>

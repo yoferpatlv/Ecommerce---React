@@ -2,44 +2,30 @@ const { User, Product, Item } = require('../../../models')
 const { NotFoundError, SystemError } = require('errors')
 const { verifyObjectIdString } = require('../../../utils')
 
-// TODO FALTA
+// TODO Revisar
 
-function updateCart(userId, productId) {
-    // verifyObjectIdString(userId, 'user id')
+function updateCart(userId, productId,newPrice,newQty) {
+    verifyObjectIdString(userId, 'user id')
 
-    // return Promise.all([
-    //     User.findById(userId).populate('cart'),
-    //     Product.findById(productId)
-    // ])
-    //     .catch(error => {
-    //         throw new SystemError(error.message)
-    //     })
-    //     .then(([user, product]) => {
-    //         if (!user) throw new NotFoundError(`user with id ${userId} not found`)
+    return User.findById(userId).populate('cart')
+    .catch(error => {
+        throw new SystemError(error.message);
+    })
+    .then(user => {
+        if(!user) throw new NotFoundError('user with id ${userId} not found')
+        if(!user.cart) throw new NotFoundError('cart not found for user with id ${userId}')
 
-    //         if (!product) throw new NotFoundError(`product with id ${productId} not found`)
-    //         //TODO arreglar/
-            
-    //         return product.deleteOne({ productId })
-    //         .catch((error) => {
-    //             throw new systemError(error.message);
-    //           });
-    //         debugger
-    //     })
-    //     .then(user => { })
-    // .then(([user, cart]) => {
-    //     if (!user) throw new NotFoundError(`user with id ${userId} not found`)
+        const item = user.cart.items.find(item => item.product.toString() === productId)
+        if(!item) throw new NotFoundError('item with product id ${productId} not found in the cart')
 
-    //     if (!cart) throw new NotFoundError(`cart with id ${cartId} not found`)
+        //Actualizamos el precio y la cantidad del item en el carrito
+        item.price = newPrice;
+        item.qty = newQty;
+        item.totalPrice = newPrice * newQty;
 
-    //     // COMPROBAR QUE EL CART PERTENECE AL USUARIO
-
-    //     return Item.create({ user: user._id })
-    //         .catch(error => {
-    //             throw new SystemError(error.message)
-    //         })
-    // })
-    // .then(item => { })
+        return user.save();
+    })
+    .then(user => {});
 }
 
 module.exports = updateCart

@@ -3,7 +3,7 @@ import { validateCallback, validateNumber } from 'validators'
 const API_URL = process.env.REACT_APP_API_URL
 
 function addItemToCart(token, productId, price, qty,callback){
-    //TODO validate inputs
+    //TODO corregir error 500
     
     //TODO agregar localstorage y cookies
     if (typeof token !== 'string') throw new TypeError('Token is not a string')
@@ -12,7 +12,7 @@ function addItemToCart(token, productId, price, qty,callback){
     validateNumber(price)
     validateCallback(callback)
     
-    const xhr = new XMLHttpRequest
+    const xhr = new XMLHttpRequest();
 
     //response
 
@@ -33,7 +33,8 @@ function addItemToCart(token, productId, price, qty,callback){
                 callback(new ClientError(error)) 
                 break
             case (status === 200):
-                   callback(null)
+                // callback(null)
+                   callback(null,token)
       
                 break
             default:
@@ -44,14 +45,14 @@ function addItemToCart(token, productId, price, qty,callback){
 
     //request
 
-    xhr.open('PATCH',`${API_URL}/users/product/${productId}`)
-    xhr.setRequestHeader('Authorization', `Bearer ${token}`)
-    xhr.setRequestHeader('Content-type', 'application/json')
+    xhr.open('PATCH', `${API_URL}/users/product/${productId}`);
+    xhr.setRequestHeader('Authorization', `Bearer ${token}`);
+    xhr.setRequestHeader('Content-type', 'application/json');
 
-    const json = JSON.stringify({ price, qty})
+    const json = JSON.stringify({ price, qty });
     // const json = JSON.stringify({productId, price, qty})
-
-    xhr.send(json)
+    debugger;
+    xhr.send(json);
 }
 
 export default addItemToCart

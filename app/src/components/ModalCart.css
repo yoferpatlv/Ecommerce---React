@@ -8,9 +8,11 @@
 }
 
 .Modal__box {
-    width: 80vw;
-    height: 35vh;
+    margin: 10%;
+    /* width: 80vw; */
+    /* height: 79vh; */
     border-radius: 15px;
+    padding: 5px;
 }
 .material-symbols-outlined.closeModal{
     font-size: 26px;
