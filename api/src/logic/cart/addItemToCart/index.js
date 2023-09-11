@@ -1,7 +1,7 @@
 const { User, Product, Item } = require('../../../models')
 const { NotFoundError, SystemError } = require('errors')
 const { verifyObjectIdString } = require('../../../utils')
-const updateCart  = require('../../cart')
+const calculateTotalPriceAll  = require('../calculatedTotalPriceAll.js')
 // TODO FALTA
 
 function addItemToCart(userId, productId, price, qty) {
@@ -27,18 +27,21 @@ function addItemToCart(userId, productId, price, qty) {
                 if (existingItemIndex === -1) {
                     user.cart.items.push(newItem)
                 } else {
-                    // Si el carrito ya existe, llamamos a la función updateCart para actualizarlo
-                   // updateCart(userId, productId, price, qty);
                    // Si el producto ya existe en el carrito, actualizamos la cantidad, el precio y el total
                    const existingItem = user.cart.items[existingItemIndex];
                    existingItem.price = price;
-                   existingItem.qty = qty;
-                   existingItem.totalPrice = totalPrice;
+                   existingItem.qty += qty;
+                   existingItem.totalPrice = existingItem.price * existingItem.qty;
                 }
+
+                // calcular el totalPriceAll
+                const totalPriceAll = calculateTotalPriceAll(user.cart.items);
+                user.cart.totalPriceAll = totalPriceAll;
 
             } else {
                // Si no hay carrito, creamos uno nuevo con el nuevo elemento
-               user.cart = { items: [new Item({ product: productId, price, qty, totalPrice })] };
+               user.cart = { items: [newItem],totalPriceAll: totalPrice };
+                // totalPriceAll se inicia con el precio del nuevo item
             }
 
             return user.save()

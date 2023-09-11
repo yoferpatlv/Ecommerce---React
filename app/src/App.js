@@ -11,6 +11,8 @@ function App() {
     const navigate = useNavigate()
 
     const [feedback, setFeedback] = useState({ message: null, level: null })
+    // const [user, setUser] = useState(null); // Agrega el estado del usuario
+
 
     const handleNavigationToRegister = () => {
         navigate('register')
@@ -26,7 +28,10 @@ function App() {
 
     const handleLogoutClick = () => {
         delete sessionStorage.token
-        
+        delete localStorage.token;
+
+        // setUser(null); // Limpia el estado del usuario
+        // setCartItems([]); // Limpia el estado del carrito
         
         handleNavigationToHome()
     }
@@ -40,7 +45,6 @@ function App() {
 
     const handleFeedback = feedback => {
         setFeedback(feedback)
-
     }
 
 

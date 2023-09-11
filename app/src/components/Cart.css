@@ -1,11 +1,46 @@
+
+.container-pay{
+    padding: 8px 20px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.container-pay p{
+    padding: 0px 20px;
+    margin: 0;
+}
+.logo {
+    font-weight: bold;
+    letter-spacing: -0.5px;
+    font-size: 16px;
+}
+.link{
+    color: #17120f;
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: underline;
+    white-space: nowrap;
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
 .container-carPrice{
     display: flex;
     justify-content:  center;
     align-items: center;
-    width: 100%;
     text-align: center;
     gap: 10px;
+    padding: 20px;
 }
 .container-carPrice h3,.container-carPrice p{
 margin: 0;
 }
+
+.linea {
+    border-top: 1px solid black;
+    height: 2px;
+    width: 80%;
+    padding: 0;
+    margin: 50px auto 0 auto;
+  }

@@ -33,34 +33,7 @@
     margin-top: 10px;
 }
 
-/* ===============ContPay=================== */
-.container-pay{
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 8px;
-    font-size: 16px;
-    font-weight: 400;
-}
-.container-pay p{
-    padding: 0px 20px;
-    margin: 0;
-}
-.logo {
-    font-weight: bold;
-    letter-spacing: -0.5px;
-    font-size: 16px;
-}
-.link{
-    color: #17120f;
-    font-size: 16px;
-    font-weight: 400;
-    text-decoration: underline;
-    white-space: nowrap;
-    background: none;
-    border: none;
-    padding: 0;
-    cursor: pointer;
-}
+
 /* ===============Size=================== */
 .container-size{
     padding: 10px 20px;
@@ -144,6 +117,15 @@
 .container-qty h3{
     font-size: 16px;
     font-weight: 700;
+}
+.qtyBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* font-size: 16px; */
+}
+.qtyBox select{
+    text-align: center;
 }
 /* input[type=number]::-webkit-inner-spin-button {
     -webkit-appearance: none;

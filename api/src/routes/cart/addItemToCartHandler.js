@@ -11,5 +11,6 @@ module.exports = (req, res) => {
 
         return addItemToCart(userId, productId, price, qty)
             .then(() => res.status(201).send())
+            //  .then(() => res.status(201).json({ message: 'Product added to cart successfully' }));
     }, res, logger)
 }

@@ -2,6 +2,8 @@ import { useParams } from "react-router-dom"
 import { useState, useEffect, useRef } from "react"
 import retrieveProductExtend from "../logic/retrieveProductExtend";
 import withContext from '../utils/withContext'
+import updateCart from '../logic/updateCart'
+import removeItemFromCart from '../logic/removeItemFromCart'
 import './ProductView.css'
 import './Carousel.css'
 import './Cart.css'
@@ -9,89 +11,99 @@ import './Cart.css'
 import IconButton from './Buttons/IconButton'
 
 //TODO mejorar
-function Cart({ product,cartItems, context: { handleFeedback } }) {
+function Cart({onCloseClick, cartItems,onCartItemsUpdated, context: { handleFeedback } }) {
 
-    
-    //TODO mejorar codigo, recibo todos los productos y solo deberia recibir los que estan en items
+    const token = sessionStorage.token || localStorage.token;
+    // Calcular el precio total del carrito sumando los totalPrice de cada elemento
+    const totalPriceAll = cartItems.reduce((total, item) => total + item.totalPrice, 0);
 
-    // const [productToDisplay, setProduct] = useState()
-    // const productId = cartItems.map(items => {
-    //     return items.product
-    // })
-    // const productIdString = productId.toString()
-
-    // debugger
-
-
-    // useEffect(() => {
-    //     try {
-    //         // addItemToCart(sessionStorage.token, productToDisplayId, productToDisplayPrice, productToDisplayQty, error => {
-    //     if (error) {
-    //         handleFeedback({ message: error.message, level: 'error' })
-    //         console.log("error adentro")
-    //         return
-    //     }
-    //     handleFeedback({ message: "agregado", level: 'info' })
-
-    //    
-    // })
-
-    //     } catch (error) {
-    //         handleFeedback({ message: error.message, level: 'error' })
-    //     }
-    // }, [])
-
-    
-
-
-    const handleReturnClick = () => {
-        window.history.go(-1)
+    const handleUpdateQty = (itemId, newQty) => {
+        // Buscar el producto correspondiente al itemId en el estado local
+        const productToUpdate = cartItems.find(item => item._id === itemId);
+        const newPrice = productToUpdate.price; // Obtener el precio actual del producto
+        
+        if (newQty === 0) {
+            // Eliminar el producto del carrito si la cantidad es 0
+            removeItemFromCart(token, itemId, (error) => {
+                if (error) {
+                    handleFeedback({ message: error.message, level: 'error' });
+                } else {
+                    // Eliminar el producto del estado local
+                    const updatedItems = cartItems.filter(item => item._id !== itemId);
+                    onCartItemsUpdated(updatedItems);
+                }
+            })
+        } else {
+            updateCart(token, itemId, newPrice ,newQty, (error) => {
+                console.log(newQty)
+                if (error) {
+                    handleFeedback({ message: error.message, level: 'error' });
+                } else {
+                    // Si la actualización es exitosa, actualizamos el estado local
+                    const updatedItems = cartItems.map(item =>
+                        item._id === itemId ? { ...item, qty: newQty, totalPrice: item.price * newQty } : item
+                    );
+                    onCartItemsUpdated(updatedItems);
+                }
+            })
+        }
     }
 
+
+    // const handleReturnClick = () => {
+    //     window.history.go(-1)
+    // }
+
+    // ===========================================================
+    const handleQtyChange=(event,itemId)=>{
+        const newQty = parseInt(event.target.value);
+        console.log(typeof newQty)
+        handleUpdateQty(itemId, newQty)
+    }
+
+    const handleOptions = () => {
+        const options = [];
+        options.push(<option key={0} value={0}>(Eliminar)</option>);
+        for (let i = 1; i <= 10; i++) {
+            options.push(<option key={i} value={i}>{i}</option>);
+        }
+        return options;
+    };
+
+    //TODO arreglar el select , no actualiza
     return <>{<div className="container-section--product cat2" >
         <div className="container-product ">
             <div className="item--products one">
-                <IconButton addClass="close" text="close" onClick={handleReturnClick} />
+                <IconButton addClass="close" text="close" onClick={onCloseClick} />
             </div>
             <div className='carTittle'>
                 <h2 >CART</h2>
             </div>
 
-            {/* <div className="container-title">
-                <div className="nameGener">
-                    <h1>{productToDisplay.name} ({productToDisplay.categ})</h1>
-
-                </div>
-                <div className="container-price">
-                    <div className="product-price">
-                        $ {productToDisplay.price}
-                    </div>
-                </div>
-            </div> */}
-            {/* <div className="item-product">
-                <div className="content--item" key={index}  >
-                    <img className='featurette-img--products' src={image} alt="" />
-                </div>
-            </div> */}
             <section className="cartItemsGroup">
                 <div>
-                    {cartItems && cartItems.map((items,index) => {
+                    {cartItems && cartItems.map((items, index) => {
                         return <div className="cart--Items" key={index}>
                             {/* TODO comparar ids para mostrar los que coinciden */}
-            
-                                <div>
-                                    <div>{items.product.name}</div>
-                                    <div>{items.product}</div>
-                                    <div className="container-qty">
-                                        <h3>Cantidad</h3>
-                                        <select type="number" defaultValue="1" />
-                                    </div>
+
+                            <div>
+                                <div>Nombre de Producto</div>
+
+                                <div>{items.product}</div>
+                                <div>{items.price}</div>
+
+                                <div className="container-qty">
+                                    <h3>Cantidad</h3>
+                                    <select value={items.qty} onChange={(event)=>handleQtyChange(event,items._id)}>
+                                        {handleOptions()}
+                                    </select>
                                 </div>
+                            </div>
                         </div>
                     })}
                 </div>
             </section>
-            <div>==============================================</div>
+            <div className="linea"></div>
             <div className="container-pay">
                 <p>Paga en 3 plazos sin intereses de 20,00€.
                     <span className="logo">Klarna</span>
@@ -99,14 +111,10 @@ function Cart({ product,cartItems, context: { handleFeedback } }) {
                     <button className="link">Más información</button>
                 </p>
 
-                <div className="container-carPrice">
-                    <h3>Precio</h3>
-                    <p>$ precio*cantida</p>
-                </div>
-                <div className="container-carPrice">
-                    <h3>Total</h3>
-                    <p>$ precio++</p>
-                </div>
+            </div>
+            <div className="container-carPrice">
+                <h3>Total: {totalPriceAll}</h3>
+
             </div>
 
         </div>

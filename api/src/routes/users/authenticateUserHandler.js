@@ -10,6 +10,7 @@ module.exports = (req, res) => {
 
         return authenticateUser(email, password)
             .then(userId => {
+                 // Generar un token JWT para el usuario
                 const token = sign({
                     sub: userId
                 }, 'Dan: copié el código de Mónica!', { expiresIn: '1h' })
